@@ -1,4 +1,4 @@
-﻿![Anime header](https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,100:6E48AA&height=220&section=header&text=Welcome%20to%20my%20space&fontSize=36&fontColor=FDF6FF&desc=Building%20apps%20with%20a%20touch%20of%20anime%20magic&descSize=18&descAlignY=65)
+﻿![Anime header](https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,100:6E48AA&height=220&section=header&text=Welcome%20to%20my%20space&fontSize=36&fontColor=FDF6FF&desc=Building%20apps%20with%20a%20touch%20of%20magic&descSize=18&descAlignY=65)
 
 <h1 align="center">Hi there, I'm Sang 👋</h1>
 
@@ -40,7 +40,7 @@
 ## 📊 Activity Graph
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LNS2905&theme=dracula&bg_color=1a1b27&color=be91f2&line=ffb86c&point=ff79c6&area=true&area_color=bd93f9&hide_border=true&custom_title=🌟%20My%20Coding%20Journey&radius=10" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LNS2905&theme=dracula&bg_color=1a1b27&color=be91f2&line=ffb86c&point=ff79c6&area=true&area_color=bd93f9&hide_border=true&custom_title=🌟%20My%20Coding%20Journey&radius=10&days=90" alt="Activity Graph" />
   </a>
 </p>
 
