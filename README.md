@@ -37,10 +37,10 @@
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Anime wave" width="300" />
 </p>
 
-## 🌌 Commit Activity
+## 📊 Activity Graph
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LNS2905&theme=tokyo-night&custom_title=Commit%20Constellation" alt="Commit activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LNS2905&theme=dracula&bg_color=1a1b27&color=be91f2&line=ffb86c&point=ff79c6&area=true&area_color=bd93f9&hide_border=true&custom_title=🌟%20My%20Coding%20Journey&radius=10" alt="Activity Graph" />
   </a>
 </p>
 
