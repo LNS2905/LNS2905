@@ -61,62 +61,102 @@ const sang = {
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 🌸 Anime & Coding Life
+## 🎮 Fun Facts & Hobbies
 
 <div align="center">
-  
-### ⚡ My Favorite Tech Stack as Anime Characters
-  
-| Technology | Character | Why |
-|------------|-----------|-----|
-| **React** | *Naruto* | Never gives up, always finding new ways (hooks, context) |
-| **TypeScript** | *L (Death Note)* | Precise, analytical, catches errors before they happen |
-| **Flutter** | *Tanjiro* | Cross-platform warrior, elegant and powerful |
-| **Docker** | *Kirby* | Consumes everything, works everywhere |
-| **PostgreSQL** | *Erwin Smith* | Strategic planner, handles complex relationships |
+
+### 💭 Random Thoughts While Coding
+
+```javascript
+if (bug) {
+  console.log("It worked on my machine... 🤷‍♂️");
+  coffee++;
+  tryAgain();
+}
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=4FC08D&center=true&vCenter=true&width=500&lines=Building+apps+one+coffee+at+a+time+☕;Turning+ideas+into+reality+🚀;Code.+Sleep.+Repeat.+💻" alt="Developer life" />
+</p>
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=25&duration=3500&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%E3%80%8C+Code+is+my+jutsu+%E3%80%8D;%E3%80%8C+Bugs+are+just+unfinished+features+%E3%80%8D" alt="Anime quotes" />
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Coding anime" />
-</div>
-
-<details>
-<summary>🎌 <b>My Coding Playlist</b></summary>
-<br>
-  
-- 🎵 **Gurenge** - LiSA (Demon Slayer)
-- 🎵 **Unravel** - TK (Tokyo Ghoul)  
-- 🎵 **Blue Bird** - Ikimono Gakari (Naruto)
-- 🎵 **Crossing Field** - LiSA (SAO)
-- 🎵 **Again** - Yui (FMAB)
-
-*"Music that powers my code sprints!"* 🎧
-</details>
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@LNS2905?theme=moebooru-h" alt="Kawaii visitor counter" />
-</p>
+### 🎨 When I'm Not Coding
+- 🎮 Gaming (mostly losing in ranked matches)
+- 📺 Watching tech reviews and anime
+- 🎵 Listening to lo-fi while pretending to be productive
+- 🍜 Hunting for the best pho in town
 
 ## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LNS2905&theme=dracula&bg_color=1a1b27&color=be91f2&line=ffb86c&point=ff79c6&area=true&area_color=bd93f9&hide_border=true&custom_title=🌟%20My%20Coding%20Journey&radius=10&days=90" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LNS2905&theme=dracula&bg_color=1a1b27&color=be91f2&line=ffb86c&point=ff79c6&area=true&area_color=bd93f9&hide_border=true&custom_title=🌟%20My%20Coding%20Journey&radius=10" alt="Activity Graph" />
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LNS2905&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=be91f2&text_color=f8f8f2&icon_color=ffb86c&border_color=bd93f9&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LNS2905&layout=compact&langs_count=10&theme=dracula&bg_color=1a1b27&title_color=be91f2&text_color=f8f8f2&border_color=bd93f9&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LNS2905&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=be91f2&text_color=f8f8f2&icon_color=ffb86c&border_color=bd93f9&include_orgs=true&role=OWNER,COLLABORATOR&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNS2905&layout=compact&langs_count=10&theme=dracula&bg_color=1a1b27&title_color=be91f2&text_color=f8f8f2&border_color=bd93f9&hide=html,css&exclude_repo=AI-based-Physiognomy-Flutter&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LNS2905&theme=dracula&background=1a1b27&ring=bd93f9&fire=ff79c6&currStreakLabel=be91f2&border=bd93f9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LNS2905&theme=dracula&background=1a1b27&ring=bd93f9&fire=ff79c6&currStreakLabel=be91f2&border=bd93f9&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<!-- Alternative Stats API for better accuracy -->
+<details>
+<summary>📊 More Stats</summary>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=LNS2905&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</p>
+</details>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LNS2905&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+## 💻 Coding Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LNS2905&theme=dracula&include_all_commits=true" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LNS2905&theme=dracula" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LNS2905&theme=dracula" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LNS2905&theme=dracula&utcOffset=7" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LNS2905&theme=dracula&include_all_commits=true" alt="Stats" />
+</p>
+
+## 📈 Real Project Contributions
+
+<div align="center">
+  
+| Project | Commits | Role | Period |
+|---------|---------|------|--------|
+| **Doxa Social Network** | 39 commits | Full-Stack Developer | Oct 2024 - Present |
+| **BachHoaSi Platform** | 102 commits | Full-Stack Frontend | May - Jul 2024 |
+| **Koi Show System** | Team Lead | Team Leader & DevOps | Jan - Feb 2025 |
+| **AI Physiognomy** | 46 commits | Solo Developer | Jun - Aug 2024 |
+
+*Note: Stats include contributions from both LNS2905 and NhatSang accounts*
+
+</div>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LNS2905&custom_title=My%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ## 🎯 Goals for 2025
