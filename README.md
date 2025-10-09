@@ -89,8 +89,8 @@ const sang = {
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LNS2905&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=be91f2&text_color=f8f8f2&icon_color=ffb86c&border_color=bd93f9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNS2905&layout=compact&langs_count=8&theme=dracula&bg_color=1a1b27&title_color=be91f2&text_color=f8f8f2&border_color=bd93f9"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LNS2905&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=be91f2&text_color=f8f8f2&icon_color=ffb86c&border_color=bd93f9&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LNS2905&layout=compact&langs_count=10&theme=dracula&bg_color=1a1b27&title_color=be91f2&text_color=f8f8f2&border_color=bd93f9&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
 </p>
 
 <p align="center">
