@@ -98,26 +98,7 @@ if (bug) {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LNS2905&theme=dracula&background=1a1b27&ring=bd93f9&fire=ff79c6&currStreakLabel=be91f2&border=bd93f9&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-## 💼 Real Project Contributions
 
-<div align="center">
-  
-| Project | Commits | Role | Period |
-|---------|---------|------|--------|
-| **Doxa Social Network** | 39 commits | Full-Stack Developer | Oct 2024 - Present |
-| **BachHoaSi Platform** | 102 commits | Full-Stack Frontend | May - Jul 2024 |
-| **Koi Show System** | Team Lead | Team Leader & DevOps | Jan - Feb 2025 |
-| **AI Physiognomy** | 46 commits | Solo Developer | Jun - Aug 2024 |
-
-*Note: Stats include contributions from both LNS2905 and NhatSang accounts*
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LNS2905&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
 
 ## 🎯 Goals for 2025
 - Contribute to more open-source mobile projects
