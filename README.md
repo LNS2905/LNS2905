@@ -61,23 +61,45 @@ const sang = {
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 🚀 Featured Projects
-- **[Koi-Show-Management-System/ksms-MB](https://github.com/Koi-Show-Management-System/ksms-MB)** — Mobile app for koi show management (TypeScript, React Native, Expo)
-- **[BachHoaSi/BachHoaSi_FE](https://github.com/BachHoaSi/BachHoaSi_FE)** — Wholesale web platform frontend (JavaScript, React)
-- **[BachHoaSi/BachHoaSi_MO](https://github.com/BachHoaSi/BachHoaSi_MO)** — Mobile companion app for wholesale operations (TypeScript, React Native)
-- **[AI-based-Physiognomy-Flutter](https://github.com/LNS2905/AI-based-Physiognomy-Flutter)** — Flutter app leveraging AI for physiognomy insights (Dart, TensorFlow Lite)
+## 🌸 Anime & Coding Life
 
-## 🌸 Anime Corner
+<div align="center">
+  
+### ⚡ My Favorite Tech Stack as Anime Characters
+  
+| Technology | Character | Why |
+|------------|-----------|-----|
+| **React** | *Naruto* | Never gives up, always finding new ways (hooks, context) |
+| **TypeScript** | *L (Death Note)* | Precise, analytical, catches errors before they happen |
+| **Flutter** | *Tanjiro* | Cross-platform warrior, elegant and powerful |
+| **Docker** | *Kirby* | Consumes everything, works everywhere |
+| **PostgreSQL** | *Erwin Smith* | Strategic planner, handles complex relationships |
+
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=600&color=FF8FAB&center=true&vCenter=true&width=460&lines=Anime+enthusiast+%F0%9F%8C%B8;Powered+by+creativity+and+code;Let's+build+something+magical!" alt="Anime typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=25&duration=3500&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%E3%80%8C+Code+is+my+jutsu+%E3%80%8D;%E3%80%8C+Bugs+are+just+unfinished+features+%E3%80%8D" alt="Anime quotes" />
 </p>
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@LNS2905?theme=rule34" alt="Anime visitor counter" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Coding anime" />
+</div>
+
+<details>
+<summary>🎌 <b>My Coding Playlist</b></summary>
+<br>
+  
+- 🎵 **Gurenge** - LiSA (Demon Slayer)
+- 🎵 **Unravel** - TK (Tokyo Ghoul)  
+- 🎵 **Blue Bird** - Ikimono Gakari (Naruto)
+- 🎵 **Crossing Field** - LiSA (SAO)
+- 🎵 **Again** - Yui (FMAB)
+
+*"Music that powers my code sprints!"* 🎧
+</details>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Anime wave" width="300" />
+  <img src="https://count.getloli.com/get/@LNS2905?theme=moebooru-h" alt="Kawaii visitor counter" />
 </p>
 
 ## 📊 GitHub Analytics
