@@ -3,9 +3,9 @@
 <h1 align="center">Hi there, I'm Sang 👋</h1>
 
 <p align="center">
-  <a href="mailto:nhatsangle2905@gmail.com">Email</a> •
+  <a href="mailto:nhatsang2905@gmail.com">Email</a> •
   <a href="https://github.com/LNS2905">GitHub</a> •
-  <a href="https://www.linkedin.com/in/nhatsangle/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/nhat-sang-105943242/">LinkedIn</a>
 </p>
 
 ## 🙋‍♂️ About Me
@@ -14,9 +14,9 @@
 - Enjoy collaborating on impactful projects and exploring new technologies
 
 ## 🛠️ Tech Stack
-- **Languages:** TypeScript, JavaScript, Dart, Java, Kotlin
-- **Frameworks & Tools:** React, React Native, Expo, Flutter, Node.js, Express, Firebase, Supabase
-- **DevOps & Others:** Docker, GitHub Actions, RESTful APIs, Agile/Scrum
+- **Languages:** TypeScript, JavaScript, Dart
+- **Frameworks & Tools:** React, React Native, Next.js, Vue.js, Remix, Expo, Flutter, Node.js, Express, Prisma, Redux Toolkit, Zustand
+- **DevOps & Others:** Docker, GitHub Actions, GitLab CI/CD, PostgreSQL, Redis, RESTful APIs, WebSocket
 
 ## 🚀 Featured Projects
 - **[Koi-Show-Management-System/ksms-MB](https://github.com/Koi-Show-Management-System/ksms-MB)** — Mobile app for koi show management (TypeScript, React Native, Expo)
