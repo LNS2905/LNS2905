@@ -90,51 +90,15 @@ if (bug) {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LNS2905&theme=dracula&bg_color=1a1b27&color=be91f2&line=ffb86c&point=ff79c6&area=true&area_color=bd93f9&hide_border=true&custom_title=🌟%20My%20Coding%20Journey&radius=10" alt="Activity Graph" />
-  </a>
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LNS2905&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=be91f2&text_color=f8f8f2&icon_color=ffb86c&border_color=bd93f9&include_orgs=true&role=OWNER,COLLABORATOR&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNS2905&layout=compact&langs_count=10&theme=dracula&bg_color=1a1b27&title_color=be91f2&text_color=f8f8f2&border_color=bd93f9&hide=html,css&exclude_repo=AI-based-Physiognomy-Flutter&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNS2905&layout=compact&langs_count=8&theme=dracula&bg_color=1a1b27&title_color=be91f2&text_color=f8f8f2&border_color=bd93f9&hide=html,css&cache_seconds=1800"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LNS2905&theme=dracula&background=1a1b27&ring=bd93f9&fire=ff79c6&currStreakLabel=be91f2&border=bd93f9&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<!-- Alternative Stats API for better accuracy -->
-<details>
-<summary>📊 More Stats</summary>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=LNS2905&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</p>
-</details>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LNS2905&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
-
-## 💻 Coding Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LNS2905&theme=dracula&include_all_commits=true" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LNS2905&theme=dracula" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LNS2905&theme=dracula" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LNS2905&theme=dracula&utcOffset=7" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LNS2905&theme=dracula&include_all_commits=true" alt="Stats" />
-</p>
-
-## 📈 Real Project Contributions
+## 💼 Real Project Contributions
 
 <div align="center">
   
@@ -149,14 +113,10 @@ if (bug) {
 
 </div>
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LNS2905&custom_title=My%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LNS2905&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ## 🎯 Goals for 2025
@@ -170,20 +130,4 @@ if (bug) {
   <i>Reach out for hackathons, freelance opportunities, or tech discussions!</i>
 </p>
 
-<div align="center">
-  
-### 💌 Connect with me
-  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff)
