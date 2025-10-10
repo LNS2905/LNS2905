@@ -94,9 +94,6 @@ if (bug) {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNS2905&layout=compact&langs_count=8&theme=dracula&bg_color=1a1b27&title_color=be91f2&text_color=f8f8f2&border_color=bd93f9&hide=html,css&cache_seconds=1800"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LNS2905&theme=dracula&background=1a1b27&ring=bd93f9&fire=ff79c6&currStreakLabel=be91f2&border=bd93f9&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
 
 
 
