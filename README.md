@@ -89,44 +89,12 @@ if (bug) {
 
 ## 📊 GitHub Analytics
 
-### 📈 Real Contribution Stats (2025)
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>900+</strong><br/>
-        Total Commits
-      </td>
-      <td align="center">
-        <strong>50+</strong><br/>
-        Pull Requests
-      </td>
-      <td align="center">
-        <strong>15+</strong><br/>
-        Repositories
-      </td>
-      <td align="center">
-        <strong>10+</strong><br/>
-        Code Reviews
-      </td>
-    </tr>
-  </table>
-</div>
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LNS2905&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=be91f2&text_color=f8f8f2&icon_color=ffb86c&border_color=bd93f9&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNS2905&layout=compact&langs_count=8&theme=dracula&bg_color=1a1b27&title_color=be91f2&text_color=f8f8f2&border_color=bd93f9&hide=html,css&cache_seconds=1800"/>
 </p>
 
-### 🔥 Detailed Statistics
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LNS2905&theme=dracula" alt="Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LNS2905&theme=dracula&utcOffset=7" alt="Productive Time" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LNS2905&theme=dracula&bg_color=1a1b27&color=be91f2&line=ff79c6&point=bd93f9&hide_border=false&radius=5" alt="Contribution Graph" />
-</p>
 
 ## 🎯 Goals for 2025
 - Contribute to more open-source mobile projects
